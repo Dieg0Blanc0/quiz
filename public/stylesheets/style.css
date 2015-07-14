@@ -7,6 +7,10 @@ body {
   font: 16px Georgia, serif;
 }
 
+img {
+    width: 90px;
+    height: 90px;
+}
 #page-wrap {
     margin: 2% auto;
     color: white;
