@@ -32,6 +32,10 @@ header, nav, section, footer {
     text-align: center;
 }
 
+footer > a {
+    padding: 5px;
+}
+
 nav span {
     margin: 0px 10px 0px 0px;
 }
